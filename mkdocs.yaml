@@ -1,0 +1,8 @@
+site_name: "myappnamewt"
+site_description: "Documentation for myappnamewt"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
